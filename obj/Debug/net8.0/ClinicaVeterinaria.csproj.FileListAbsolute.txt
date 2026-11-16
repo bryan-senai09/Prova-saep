@@ -1,0 +1,8 @@
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.csproj.AssemblyReference.cache
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.RazorAssemblyInfo.cache
+C:\Users\437340624\prova\sistema\obj\Debug\net8.0\ClinicaVeterinaria.RazorAssemblyInfo.cs
